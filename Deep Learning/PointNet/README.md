@@ -8,6 +8,7 @@ The work includes:
 * Visualizing and analyzing segmentation performance.
 * Exploring improvements such as adding a T-Net transformation module for enhanced spatial understanding.
 
+![newplot](https://github.com/user-attachments/assets/a4be47c3-59a7-4537-85d4-32e9b5e5dc48)
 
 ## Features
 ### 1. Point Cloud Data Loader
@@ -28,5 +29,3 @@ The work includes:
 ### 4. Visualization
 * Provided visualization tools to render segmented point clouds.
 * Used Plotly 3D scatter plots for interactive visualization of results.
-
-![newplot](https://github.com/user-attachments/assets/a4be47c3-59a7-4537-85d4-32e9b5e5dc48)
